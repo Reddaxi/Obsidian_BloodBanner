@@ -1,0 +1,3 @@
+- Noblemens army.
+- Wear red capes.
+- Religious symbols.

@@ -1,0 +1,3 @@
+During [[Alexandros Deguilliere]]'s time in [[The 42nd Platoon]], they are hired to escort a noble ([[Unnamed noble]]) from [[Some place]] to [[Some other place]] along the coast of [[Some sea or something]]. The platoon is attacked, as a gigantic seamonster springs from the deep waters and starts devouring the soldiers, one by one. [[Alexandros Deguilliere]] watches this monster kill and devour his fellow soldiers, his close friend [[Oberon Briargaard]] among them.
+
+The sight causes [[Alexandros Deguilliere]] to be frozen by fear and eventually to flee, leaving the soldiers and the noble for dead.
