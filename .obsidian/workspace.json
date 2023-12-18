@@ -133,8 +133,12 @@
             "id": "eff3ff446bd9e9ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Redbrand Rebellion/Kurt Dough.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -204,6 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Redbrand Rebellion/Kurt Dough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,6 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Redbrand Rebellion/Kurt Dough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Redbrand Rebellion/Kurt Dough.md"
+              }
             }
           }
         ]
