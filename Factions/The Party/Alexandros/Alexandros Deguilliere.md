@@ -10,7 +10,7 @@ Younger brother: [[Lance Deguilliere]] (27)
 Younger sister: [[Cateline Deguilliere]] (24)
 Butler: [[Leopold Beaufort (Butler)]]
 
-[[Friends]]:
+Friend of:
 - [[Renfry]]
 - [[Queek]]
 
