@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md"
+                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md"
               }
             }
           }
@@ -188,37 +187,37 @@
   },
   "active": "382d39c9f2226e2d",
   "lastOpenFiles": [
+    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
+    "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
+    "Places/RedBrand/House Deguilliere/Deguilliere Vineyard.md",
+    "Places/RedBrand/House Giel/Giel Vineyard.md",
+    "Places/RedBrand/House Giel/Saffira Giel.md",
+    "Unplaced NPCs/Tsaar (Not real name).md",
+    "Unplaced NPCs/Kristen.md",
+    "Factions/The Party/The Party.md",
+    "Places/RedBrand/House Achey/Achey Vineyard.md",
+    "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/Queek/Queek.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
-    "Factions/The Party/The Party.md",
     "Factions/The Party/Renfry.md",
     "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
     "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
     "Places/RedBrand/The Hanged Cat (Inn).md",
-    "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Events/Event, Raid on barracks in Redbrand.md",
-    "NPCs/Tsaar (Not real name).md",
     "Events",
-    "NPCs/Kristen.md",
     "Factions/Redbrand Rebellion/Maurice (Deceased).md",
     "Factions/Redbrand Rebellion/Serra.md",
     "Factions/The Party/Alexandros/Things/Letter for Anastasia.md",
     "Factions/Redbrand Rebellion/Kurt Dough.md",
-    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
-    "Places/RedBrand/House Giel/Saffira Giel.md",
-    "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
     "Places/RedBrand/Redbrand.md",
-    "Places/RedBrand/House Giel/Giel Vineyard.md",
-    "Places/RedBrand/House Achey/Achey Vineyard.md",
-    "Places/RedBrand/House Deguilliere/Deguilliere Vineyard.md",
     "Places/RedBrand/House Achey",
     "Places/RedBrand/House Deguilliere",
     "Places/RedBrand/House Ædelhoff",
     "Places/RedBrand",
     "Places/RedBrand/House Giel",
-    "NPCs",
+    "Unplaced NPCs",
     "Factions/Guards of Redbrand",
     "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
     "Factions/The Party/Alexandros/Friends/Friends.md",
