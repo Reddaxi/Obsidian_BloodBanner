@@ -1,3 +1,7 @@
+
+Current context:
+- Wrote [[Letter for Anastasia]] and gave it to [[Queek]] (Queek has given it to Scratch and told him to give it to [[Anastasia Deguilliere]])
+
 [[Family]]:
 Father: [[Constantine Deguilliere (Dragons Bane)]] (76)
 Mother: [[Anastasia Deguilliere]] (67)
