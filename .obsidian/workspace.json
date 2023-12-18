@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
+                "file": "Factions/The Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Redbrand Rebellion/Raul Lion.md",
+                "file": "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,14 +87,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Redbrand.md",
+                "file": "Places/RedBrand/Redbrand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e1a1226d22a445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/RedBrand/Redbrand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f41737e95101e285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a94ea235fd4eba1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Kristen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eff3ff446bd9e9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/RedBrand/Redbrand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -160,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
+                "file": "Places/RedBrand/Redbrand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
+                "file": "Places/RedBrand/Redbrand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md"
+                "file": "Places/RedBrand/Redbrand.md"
               }
             }
           }
@@ -223,41 +271,41 @@
   },
   "active": "6c5c842dd7376e1a",
   "lastOpenFiles": [
+    "Places/RedBrand/House Deguilliere",
+    "Places/RedBrand/House Ædelhoff",
+    "Places/RedBrand/House Giel/Saffira Giel.md",
+    "Places/RedBrand",
+    "Places/RedBrand/House Giel",
+    "NPCs/Kristen.md",
+    "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
+    "NPCs",
+    "Factions/Redbrand Rebellion/Kurt Dough.md",
+    "Places/RedBrand/Redbrand.md",
+    "Factions/Guards of Redbrand",
+    "Factions/The Party/The Party.md",
+    "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
     "Untitled 1",
     "Factions/The Party/Alexandros/Friends/Friends.md",
-    "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
     "Factions/The Party/Alexandros/Family/Cateline Deguilliere.md",
     "Factions/The Party/Alexandros/Things",
     "Factions/The Party/Alexandros",
     "Factions/The Party",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
-    "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Family/Cedric Deguilliere.md",
     "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-    "Places/Redbrand.md",
     "Places",
-    "Factions/Redbrand Rebellion/Raul Lion.md",
-    "Factions/Redbrand Rebellion/Kurt Dough.md",
     "Factions/Redbrand Rebellion/Serra.md",
-    "Factions/Redbrand Rebellion",
     "Factions/The Party/Alexandros/Things/Letter for Anastasia.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
     "Friends/Tobias Briargaard.md",
     "Factions/The Party/Alexandros/Events/Monster attack.md",
     "Factions/The 42nd Platoon.md",
-    "Factions/The Party/Alexandros/Events",
     "Factions/The Cardinal Regiment.md",
-    "Factions",
     "Factions/The Party/Alexandros/Family/Anastasia Deguilliere.md",
     "Factions/The Party/Alexandros/Family/Constantine Deguilliere (Dragons Bane).md",
     "Factions/The Party/Alexandros/Family/Family.md",
     "Factions/The Party/Alexandros/Family/Lance Deguilliere.md",
     "Factions/The Party/Renfry.md",
-    "Factions/The Party/Queek.md",
-    "Factions/The Party/Alexandros/Family Staff/Leopold Beaufort (Butler).md",
-    "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
-    "Factions/The Party/Alexandros/Family Staff/Teachers",
-    "Factions/The Party/Alexandros/Family Staff",
-    "Factions/The Party/Alexandros/Friends"
+    "Factions/The Party/Queek.md"
   ]
 }
