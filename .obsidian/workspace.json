@@ -49,6 +49,14 @@
             "id": "c11de6b67e891783",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb4e0ecd8643341",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
@@ -70,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,9 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c11de6b67e891783",
+  "active": "ddb4e0ecd8643341",
   "lastOpenFiles": [
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.07.52.excalidraw.md",
+    "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.53.37.excalidraw.md",
     "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
     "Places/RedBrand/House Achey/Achey Vineyard.md",
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.47.49.excalidraw.md",
@@ -235,7 +244,6 @@
     "Places/RedBrand/House Giel",
     "Unplaced NPCs",
     "Factions/Guards of Redbrand",
-    "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
-    "Factions/The Party/Alexandros/Friends/Friends.md"
+    "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md"
   ]
 }
