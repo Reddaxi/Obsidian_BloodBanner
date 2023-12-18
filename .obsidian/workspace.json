@@ -4,203 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ad6e6139484d95ef",
+        "id": "d9f39b93e1b4ac71",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfd489043106077",
+            "id": "09fd7c1ed8dc12ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family Staff/Leopold Beaufort (Butler).md",
+                "file": "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e2706bf721a5ed7",
+            "id": "a4c24528a8800803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
+                "file": "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97c7096434ef0334",
+            "id": "6cfe5bbd75154638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
+                "file": "Factions/Redbrand Rebellion/Raul Lion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb64cfc2b557510d",
+            "id": "8835bd0efd79b0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family Staff/Teachers/Mr. Simon Baxter (History and Battle Tactics teacher).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f4d37d3b0f50e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed5ea2c4bd1c8bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family Staff/Teachers/Teachers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8b91f780e375019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alexandros Deguilliere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd257c8183a278a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Friends/Queek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55338b419e5d2e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alexandros Deguilliere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86b4a56901089cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The 42nd Platoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2a183fa72c5bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The 42nd Platoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d8e8a2e66174ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alexandros Deguilliere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69594e2b13249ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Friends/Oberon Briargaard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6810cef9856856fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Cardinal Regiment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0adf708c4600e4fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alexandros Deguilliere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e705ef041d84893e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family/Nicholas Deguilliere.md",
+                "file": "Kurt Dough.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alexandros Deguilliere.md",
+                "file": "Kurt Dough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alexandros Deguilliere.md",
+                "file": "Kurt Dough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexandros Deguilliere.md"
+                "file": "Kurt Dough.md"
               }
             }
           }
@@ -327,17 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d8e8a2e66174ec1",
+  "active": "8835bd0efd79b0c8",
   "lastOpenFiles": [
+    "Factions/Redbrand Rebellion/Raul Lion.md",
+    "Kurt Dough.md",
+    "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
+    "Factions/Redbrand Rebellion/Serra.md",
+    "Factions/Redbrand Rebellion",
+    "Alexandros Deguilliere.md",
+    "Letter for Anastasia.md",
     "Friends/Oberon Briargaard.md",
     "Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
     "Friends/Tobias Briargaard.md",
     "Events/Monster attack.md",
-    "Untitled",
     "Factions/The 42nd Platoon.md",
     "Events",
     "Factions/The Cardinal Regiment.md",
-    "Alexandros Deguilliere.md",
     "Factions",
     "Family/Anastasia Deguilliere.md",
     "Family/Claudia Deguilliere.md",
@@ -353,7 +214,6 @@
     "Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
     "Family Staff/Teachers/Mr. Simon Baxter (History and Battle Tactics teacher).md",
     "Family Staff/Teachers/Mr. Jeremy Essen (Etiquette and Mannerisms teacher).md",
-    "Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher).md",
     "Family Staff/Teachers",
     "Family Staff",
     "Friends",
