@@ -133,12 +133,8 @@
             "id": "eff3ff446bd9e9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/RedBrand/Redbrand.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -192,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 331.5
   },
   "right": {
     "id": "1d3a9c88debdb6b6",
@@ -208,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/RedBrand/Redbrand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +220,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/RedBrand/Redbrand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,9 +241,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Places/RedBrand/Redbrand.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -269,18 +261,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c5c842dd7376e1a",
+  "active": "eff3ff446bd9e9ec",
   "lastOpenFiles": [
+    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
+    "Places/RedBrand/House Giel/Saffira Giel.md",
+    "Places/RedBrand/House Ædelhoff/House Ædelhoff.md",
+    "Places/RedBrand/Redbrand.md",
+    "Places/RedBrand/House Giel/House Giel.md",
+    "Places/RedBrand/House Achey/House Achey.md",
+    "Places/RedBrand/House Deguilliere/House Deguilliere.md",
+    "Places/RedBrand/House Achey",
     "Places/RedBrand/House Deguilliere",
     "Places/RedBrand/House Ædelhoff",
-    "Places/RedBrand/House Giel/Saffira Giel.md",
     "Places/RedBrand",
     "Places/RedBrand/House Giel",
     "NPCs/Kristen.md",
     "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
     "NPCs",
     "Factions/Redbrand Rebellion/Kurt Dough.md",
-    "Places/RedBrand/Redbrand.md",
     "Factions/Guards of Redbrand",
     "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
@@ -289,11 +287,9 @@
     "Factions/The Party/Alexandros/Family/Cateline Deguilliere.md",
     "Factions/The Party/Alexandros/Things",
     "Factions/The Party/Alexandros",
-    "Factions/The Party",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/Alexandros/Family/Cedric Deguilliere.md",
     "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-    "Places",
     "Factions/Redbrand Rebellion/Serra.md",
     "Factions/The Party/Alexandros/Things/Letter for Anastasia.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
@@ -302,10 +298,6 @@
     "Factions/The 42nd Platoon.md",
     "Factions/The Cardinal Regiment.md",
     "Factions/The Party/Alexandros/Family/Anastasia Deguilliere.md",
-    "Factions/The Party/Alexandros/Family/Constantine Deguilliere (Dragons Bane).md",
-    "Factions/The Party/Alexandros/Family/Family.md",
-    "Factions/The Party/Alexandros/Family/Lance Deguilliere.md",
-    "Factions/The Party/Renfry.md",
-    "Factions/The Party/Queek.md"
+    "Factions/The Party/Alexandros/Family/Constantine Deguilliere (Dragons Bane).md"
   ]
 }
