@@ -8,6 +8,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "90ba1d5e4498c6ea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Party/The Party.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ec03a7e68ffd883b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Family/Cateline Deguilliere.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09fd7c1ed8dc12ac",
             "type": "leaf",
             "state": {
@@ -66,21 +92,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90ba1d5e4498c6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Party.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party.md",
+                "file": "Family/Cateline Deguilliere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party.md",
+                "file": "Family/Cateline Deguilliere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party.md"
+                "file": "Family/Cateline Deguilliere.md"
               }
             }
           }
@@ -209,17 +223,20 @@
   },
   "active": "6c5c842dd7376e1a",
   "lastOpenFiles": [
-    "Places/Redbrand.md",
-    "Factions/The Party.md",
+    "Factions/The Party/Alexandros",
+    "Factions/The Party",
+    "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+    "Factions/The Party/The Party.md",
+    "Family/Cedric Deguilliere.md",
     "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
+    "Places/Redbrand.md",
     "Places",
     "Factions/Redbrand Rebellion/Raul Lion.md",
     "Factions/Redbrand Rebellion/Kurt Dough.md",
     "Factions/Redbrand Rebellion/Serra.md",
     "Factions/Redbrand Rebellion",
-    "Alexandros Deguilliere.md",
     "Letter for Anastasia.md",
-    "Friends/Oberon Briargaard.md",
+    "Factions/The Party/Alexandros/Oberon Briargaard.md",
     "Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
     "Friends/Tobias Briargaard.md",
     "Events/Monster attack.md",
@@ -228,17 +245,15 @@
     "Factions/The Cardinal Regiment.md",
     "Factions",
     "Family/Anastasia Deguilliere.md",
-    "Family/Claudia Deguilliere.md",
+    "Family/Cateline Deguilliere.md",
     "Family/Constantine Deguilliere (Dragons Bane).md",
     "Family/Family.md",
     "Family/Lance Deguilliere.md",
-    "Family/Nicholas Deguilliere.md",
-    "Friends/Renfry.md",
-    "Friends/Queek.md",
+    "Factions/The Party/Renfry.md",
+    "Factions/The Party/Queek.md",
     "Friends/Friends.md",
     "Family Staff/Leopold Beaufort (Butler).md",
     "Family Staff/Teachers/Teachers.md",
-    "Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
     "Family Staff/Teachers",
     "Family Staff",
     "Friends",

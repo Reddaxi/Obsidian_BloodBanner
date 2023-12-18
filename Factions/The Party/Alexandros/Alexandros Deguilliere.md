@@ -1,9 +1,9 @@
 [[Family]]:
 Father: [[Constantine Deguilliere (Dragons Bane)]] (76)
 Mother: [[Anastasia Deguilliere]] (67)
-Older brother: [[Nicholas Deguilliere]] (48)
+Older brother: [[Cedric Deguilliere]] (48)
 Younger brother: [[Lance Deguilliere]] (27)
-Younger sister: [[Claudia Deguilliere]] (24)
+Younger sister: [[Cateline Deguilliere]] (24)
 Butler: [[Leopold Beaufort (Butler)]]
 
 [[Friends]]:
