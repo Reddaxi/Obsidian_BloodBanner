@@ -5,9 +5,12 @@ PCs:
 
 Allies:
 - [[Redbrand Rebellion]]
-- Book: Royal Lineage
-- Contact box for Tsaar
-- 4 Starrite coins, one of which is missing a quarter
+
+
+
 Common Inventory:
 
-1x Forgery kit (Alexandros)
+- Book: Royal Lineage
+- Contact box for Tsaar (At)
+- 4 Starrite coins, one of which is missing a quarter
+- 1x Forgery kit (Alexandros)

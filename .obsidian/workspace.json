@@ -22,135 +22,19 @@
             }
           },
           {
-            "id": "ec03a7e68ffd883b",
+            "id": "6b62341f5eca413e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/The Party.md",
+                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "09fd7c1ed8dc12ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4c24528a8800803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cfe5bbd75154638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8835bd0efd79b0c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c46a84e1c92136eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/RedBrand/Redbrand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e1a1226d22a445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/RedBrand/Redbrand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f41737e95101e285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a94ea235fd4eba1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Kristen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff3ff446bd9e9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Tsaar (Not real name).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "941bb4581dfbc105",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md"
+              }
             }
           }
         ]
@@ -273,8 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "941bb4581dfbc105",
+  "active": "6c5c842dd7376e1a",
   "lastOpenFiles": [
+    "Factions/The Party/Queek/Custom Alchemy",
+    "Factions/The Party/Queek",
+    "Places/RedBrand/The Hanged Cat (Inn).md",
+    "Factions/The Party/The Party.md",
+    "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Events/Event, Raid on barracks in Redbrand.md",
     "NPCs/Tsaar (Not real name).md",
@@ -299,17 +192,12 @@
     "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
     "NPCs",
     "Factions/Guards of Redbrand",
-    "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
     "Untitled 1",
     "Factions/The Party/Alexandros/Friends/Friends.md",
     "Factions/The Party/Alexandros/Family/Cateline Deguilliere.md",
-    "Factions/The Party/Alexandros/Things",
     "Factions/The Party/Alexandros/Family/Cedric Deguilliere.md",
     "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-    "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
-    "Friends/Tobias Briargaard.md",
-    "Factions/The Party/Alexandros/Events/Monster attack.md",
-    "Factions/The Party/Alexandros/The 42nd Platoon.md"
+    "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md"
   ]
 }
