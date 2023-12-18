@@ -1,1 +1,1 @@
-[[Friends]] of [[Alexandros Deguilliere]]
+Friend of [[Alexandros Deguilliere]]

@@ -27,14 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
+                "file": "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "382d39c9f2226e2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deceas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,13 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c5c842dd7376e1a",
+  "active": "0a65d4352d22799b",
   "lastOpenFiles": [
+    "Factions/The Party/The Party.md",
+    "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
+    "Factions/The Party/Renfry.md",
+    "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
     "Places/RedBrand/The Hanged Cat (Inn).md",
-    "Factions/The Party/The Party.md",
-    "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Events/Event, Raid on barracks in Redbrand.md",
     "NPCs/Tsaar (Not real name).md",
@@ -193,11 +200,9 @@
     "NPCs",
     "Factions/Guards of Redbrand",
     "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
-    "Untitled 1",
     "Factions/The Party/Alexandros/Friends/Friends.md",
     "Factions/The Party/Alexandros/Family/Cateline Deguilliere.md",
     "Factions/The Party/Alexandros/Family/Cedric Deguilliere.md",
-    "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
-    "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md"
+    "Factions/Redbrand Rebellion/Redbrand Rebellion.md"
   ]
 }
