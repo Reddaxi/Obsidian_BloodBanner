@@ -37,8 +37,24 @@
             "id": "382d39c9f2226e2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8524e711a7404fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Party/Renfry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -71,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: dece",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md"
+              }
             }
           }
         ]
@@ -168,10 +188,11 @@
   },
   "active": "382d39c9f2226e2d",
   "lastOpenFiles": [
-    "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
-    "Factions/The Party/The Party.md",
+    "Factions/The Party/Queek/Queek.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
+    "Factions/The Party/The Party.md",
     "Factions/The Party/Renfry.md",
+    "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
     "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
@@ -202,7 +223,6 @@
     "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
     "Factions/The Party/Alexandros/Friends/Friends.md",
     "Factions/The Party/Alexandros/Family/Cateline Deguilliere.md",
-    "Factions/The Party/Alexandros/Family/Cedric Deguilliere.md",
-    "Factions/Redbrand Rebellion/Redbrand Rebellion.md"
+    "Factions/The Party/Alexandros/Family/Cedric Deguilliere.md"
   ]
 }
