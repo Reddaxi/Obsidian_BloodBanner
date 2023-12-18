@@ -59,7 +59,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
+                "file": "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f8e76e7a83d5cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
+                "file": "Factions/The Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
+                "file": "Factions/The Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md"
+                "file": "Factions/The Party/The Party.md"
               }
             }
           }
@@ -206,16 +218,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddb4e0ecd8643341",
+  "active": "2f8e76e7a83d5cd1",
   "lastOpenFiles": [
+    "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
+    "Factions/Redbrand Rebellion/Dustin.md",
+    "Places/RedBrand/The Lion Inn (The Likable Pub).md",
+    "Places/RedBrand/House Deguilliere/Deguilliere Vineyard.md",
+    "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.07.52.excalidraw.md",
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.53.37.excalidraw.md",
-    "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
     "Places/RedBrand/House Achey/Achey Vineyard.md",
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.47.49.excalidraw.md",
     "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
     "Pasted Image 20231218124341_353.jpg",
-    "Places/RedBrand/House Deguilliere/Deguilliere Vineyard.md",
     "Factions/Redbrand Rebellion/Maurice (Deceased).md",
     "Places/RedBrand/The Hanged Cat (Inn).md",
     "Places/RedBrand/House Giel/Giel Vineyard.md",
@@ -235,15 +250,12 @@
     "Events",
     "Factions/Redbrand Rebellion/Serra.md",
     "Factions/The Party/Alexandros/Things/Letter for Anastasia.md",
-    "Factions/Redbrand Rebellion/Kurt Dough.md",
-    "Places/RedBrand/Redbrand.md",
     "Places/RedBrand/House Achey",
     "Places/RedBrand/House Deguilliere",
     "Places/RedBrand/House Ædelhoff",
     "Places/RedBrand",
     "Places/RedBrand/House Giel",
     "Unplaced NPCs",
-    "Factions/Guards of Redbrand",
-    "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md"
+    "Factions/Guards of Redbrand"
   ]
 }
