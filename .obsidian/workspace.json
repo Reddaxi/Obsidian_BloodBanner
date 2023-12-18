@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deceas",
+                "query": "file: dece",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a65d4352d22799b",
+  "active": "382d39c9f2226e2d",
   "lastOpenFiles": [
+    "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
     "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
     "Factions/The Party/Renfry.md",
@@ -196,7 +197,6 @@
     "Places/RedBrand/House Ædelhoff",
     "Places/RedBrand",
     "Places/RedBrand/House Giel",
-    "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
     "NPCs",
     "Factions/Guards of Redbrand",
     "Factions/The Party/Alexandros/Friends/Oberon Briargaard (Deceased).md",
