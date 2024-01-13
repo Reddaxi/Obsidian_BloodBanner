@@ -21,3 +21,5 @@ Common Inventory:
 	- 1 Stone was given to [[Serra]] - The other stone in the pair is carried by [[Alexandros Deguilliere]]
 - Birdcage plus weird looking pigeon with one big eye.
 - ædelhoff segl
+- 9 chests with gold
+- Dragon egg
