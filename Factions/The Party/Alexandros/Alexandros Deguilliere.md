@@ -44,4 +44,4 @@ I refuse to stay a faceless background character in the painting of my fathers g
 As soon as he could lift a sword, he would train under [[Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher)]] alongside his brothers.
 
 At the age of 18, Alexandros was sent to join the [[The Cardinal Regiment]].
-Here, he spends joins the ranks of [[The 42nd Platoon]].
+Here, he joins the ranks of [[The 42nd Platoon]].
