@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/The Party.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/The Party.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/The Party.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/The Party.md"
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "6c5c842dd7376e1a",
   "lastOpenFiles": [
-    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
     "Factions/The Party/The Party.md",
+    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/Alexandros/The 42nd Platoon.md",
     "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
