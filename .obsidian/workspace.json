@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "039a2c1b0c2cc2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Party/Alexandros/Family/Anastasia Deguilliere.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/The Party.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/The Party.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/The Party.md"
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md"
               }
             }
           }
@@ -161,8 +174,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c5c842dd7376e1a",
+  "active": "748392abb5c05e79",
   "lastOpenFiles": [
+    "Factions/The Party/Alexandros/Family/Anastasia Deguilliere.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/The Party.md",
     "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
@@ -189,7 +203,6 @@
     "Unplaced NPCs/Kristen.md",
     "Factions/The Party/Queek/Queek.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
-    "Factions/The Party/Renfry.md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
     "Events",

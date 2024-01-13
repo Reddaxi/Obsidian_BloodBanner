@@ -2,6 +2,7 @@
 Current context:
 - Wrote [[Letter for Anastasia]] and gave it to [[Queek]] (Queek has given it to Scratch and told him to give it to [[Anastasia Deguilliere]])
 - New clothes + extra cape
+- hest lånt
 
 [[Family]]:
 Father: [[Constantine Deguilliere (Dragons Bane)]] (76)

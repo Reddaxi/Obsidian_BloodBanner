@@ -23,4 +23,3 @@ Common Inventory:
 - Ædelhoff segl
 - 9 chests with gold
 - Dragon egg (faron is keeping the fireplace lit)
-- best 
