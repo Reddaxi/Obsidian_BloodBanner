@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
+                "file": "Factions/The Party/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
+                "file": "Factions/The Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
+                "file": "Factions/The Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md"
+                "file": "Factions/The Party/The Party.md"
               }
             }
           }
@@ -162,15 +162,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "748392abb5c05e79",
+  "active": "6c5c842dd7376e1a",
   "lastOpenFiles": [
+    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
+    "Factions/The Party/The Party.md",
+    "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/Alexandros/The 42nd Platoon.md",
     "Places/RedBrand/House Ædelhoff/Ædelhoff Vineyard.md",
-    "Factions/The Party/The Party.md",
-    "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
     "Factions/The Party/Alexandros/Things/Letter for Anastasia.md",
     "Factions/The Party/Alexandros/Family/Constantine Deguilliere (Dragons Bane).md",
-    "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Events/Event, Raid on barracks in Redbrand.md",
     "conflict-files-obsidian-git.md",
     "Factions/Redbrand Rebellion/Redbrand Rebellion.md",
