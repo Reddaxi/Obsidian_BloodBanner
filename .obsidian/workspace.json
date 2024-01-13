@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/Alexandros/The 42nd Platoon.md",
+                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Alexandros/The 42nd Platoon.md",
+                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Alexandros/The 42nd Platoon.md",
+                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/Alexandros/The 42nd Platoon.md"
+                "file": "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md"
               }
             }
           }
@@ -162,9 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c5c842dd7376e1a",
+  "active": "748392abb5c05e79",
   "lastOpenFiles": [
     "Factions/The Party/Alexandros/Things/Letter for Anastasia.md",
+    "Factions/The Party/Alexandros/Family/Constantine Deguilliere (Dragons Bane).md",
+    "Factions/The Party/Alexandros/The 42nd Platoon.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/The Party.md",
     "Events/Event, Raid on barracks in Redbrand.md",
@@ -189,8 +191,6 @@
     "Factions/The Party/Queek/Queek.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
     "Factions/The Party/Renfry.md",
-    "Factions/Guards of Redbrand/Raul Lion (Deceased).md",
-    "Factions/The Party/Queek/Custom Alchemy/Juggernaut.md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
     "Events",
