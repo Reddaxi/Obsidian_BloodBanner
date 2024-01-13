@@ -22,4 +22,4 @@ Common Inventory:
 - Birdcage plus weird looking pigeon with one big eye.
 - Ædelhoff segl
 - 9 chests with gold
-- Dragon egg
+- Dragon egg (faron is keeping the fireplace lit)
