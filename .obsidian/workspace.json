@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher).md",
+                "file": "Places/RedBrand/House Achey/Achey Vineyard.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher).md",
+                "file": "Places/RedBrand/House Achey/Achey Vineyard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher).md",
+                "file": "Places/RedBrand/House Achey/Achey Vineyard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher).md"
+                "file": "Places/RedBrand/House Achey/Achey Vineyard.md"
               }
             }
           }
@@ -186,11 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c5c842dd7376e1a",
+  "active": "ffe895151907ab21",
   "lastOpenFiles": [
+    "Places/RedBrand/House Giel/Saffira Giel.md",
+    "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
+    "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Jeremy Essen (Etiquette and Mannerisms teacher).md",
-    "Factions/The Party/Alexandros/Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
+    "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Gerrard Evens (Politics teacher and languages).md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Simon Baxter (History and Battle Tactics teacher).md",
+    "Factions/The Party/Alexandros/Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
     "Factions/The Party/The Party.md",
     "Places/RedBrand/House Achey/Achey Vineyard.md",
@@ -211,10 +215,6 @@
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.47.49.excalidraw.md",
     "Pasted Image 20231218124341_353.jpg",
     "Factions/Redbrand Rebellion/Maurice (Deceased).md",
-    "Places/RedBrand/The Hanged Cat (Inn).md",
-    "Places/RedBrand/House Giel/Giel Vineyard.md",
-    "Places/RedBrand/House Giel/Saffira Giel.md",
-    "Unplaced NPCs/Tsaar (Not real name).md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
     "Events",
