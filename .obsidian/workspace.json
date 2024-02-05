@@ -51,7 +51,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/RedBrand/House Achey/Achey Vineyard.md",
+                "file": "Factions/The Party/Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5c62417e0fc2549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faron.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/RedBrand/House Achey/Achey Vineyard.md",
+                "file": "Factions/The Party/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/RedBrand/House Achey/Achey Vineyard.md",
+                "file": "Factions/The Party/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/RedBrand/House Achey/Achey Vineyard.md"
+                "file": "Factions/The Party/Context.md"
               }
             }
           }
@@ -188,6 +200,11 @@
   },
   "active": "ffe895151907ab21",
   "lastOpenFiles": [
+    "Faron.md",
+    "Factions/The Party/Context.md",
+    "Unplaced NPCs/Kristen.md",
+    "Factions/The Party/The Party.md",
+    "Places/RedBrand/House Achey/Achey Vineyard.md",
     "Places/RedBrand/House Giel/Saffira Giel.md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Dame Rosaline Briargaard (Gymnastics and Swordsmanship teacher).md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Teachers.md",
@@ -196,8 +213,6 @@
     "Factions/The Party/Alexandros/Family Staff/Teachers/Mr. Simon Baxter (History and Battle Tactics teacher).md",
     "Factions/The Party/Alexandros/Family Staff/Teachers/Ms. Laura Essen (Math teacher).md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
-    "Factions/The Party/The Party.md",
-    "Places/RedBrand/House Achey/Achey Vineyard.md",
     "Factions/The Party/Alexandros/Family/Anastasia Deguilliere.md",
     "Places/RedBrand/House Ædelhoff/Lord Ædelhoff.md",
     "Factions/The Party/Alexandros/The 42nd Platoon.md",
@@ -211,10 +226,7 @@
     "Places/RedBrand/The Lion Inn (The Likable Pub).md",
     "Places/RedBrand/House Deguilliere/Deguilliere Vineyard.md",
     "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.07.52.excalidraw.md",
-    "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.53.37.excalidraw.md",
-    "Places/RedBrand/House Ædelhoff/Drawing 2023-12-18 12.47.49.excalidraw.md",
     "Pasted Image 20231218124341_353.jpg",
-    "Factions/Redbrand Rebellion/Maurice (Deceased).md",
     "Factions/The Party/Queek/Custom Alchemy",
     "Factions/The Party/Queek",
     "Events",
