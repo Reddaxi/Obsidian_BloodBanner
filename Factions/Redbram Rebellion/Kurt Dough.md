@@ -1,5 +1,5 @@
-Part of [[Redbrand Rebellion]]
+Part of [[Redbram Rebellion]]
 
 Fed the rebellion bread during the raid on the barracks.
 
-Lives in [[Redbrand]]
+Lives in [[Redbram]]

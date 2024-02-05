@@ -6,7 +6,7 @@ Claims:
 - He worked with Maurice.
 
 We've run into him a few times:
-- When following map on starrite coin, in a hidden cave underneath a platform near the church in [[Redbrand]]
+- When following map on starrite coin, in a hidden cave underneath a platform near the church in [[Redbram]]
 - On the road when we went to [[Ædelhoff Vineyard]]
 
 He has the ability to cast seemingly powerful magic.

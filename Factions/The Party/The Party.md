@@ -4,7 +4,7 @@ PCs:
 - [[Alexandros Deguilliere]]
  
 Allies:
-- [[Redbrand Rebellion]]
+- [[Redbram Rebellion]]
 
 
 

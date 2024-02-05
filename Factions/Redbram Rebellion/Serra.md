@@ -1,5 +1,5 @@
 Daughter of [[Maurice (Deceased)]]
-Current leader of [[Redbrand Rebellion]]
+Current leader of [[Redbram Rebellion]]
 
 No noteworthy combat skills.
 

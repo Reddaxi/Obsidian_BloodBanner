@@ -1,5 +1,5 @@
 - [[Serra]] and [[Dustin]] held meeting and tried to exclude us.
-- We left [[Redbrand]] with basic provisions and on horseback
+- We left [[Redbram]] with basic provisions and on horseback
 	- Party + [[Kristen]]
 - We went to a festival hosted by [[Achey Vineyard]] for the 
 - We met Issabella from family [[Achey Vineyard]]. Her and her husband, Francois, were masquerading under the names of Anika and Frank.
