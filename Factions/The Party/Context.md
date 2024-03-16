@@ -1,3 +1,6 @@
+- 
+
+
 - [[Serra]] and [[Dustin]] held meeting and tried to exclude us.
 - We left [[Redbram]] with basic provisions and on horseback
 	- Party + [[Kristen]]

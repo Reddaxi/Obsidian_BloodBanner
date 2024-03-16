@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Redbram Rebellion/Redbram Rebellion.md",
+                "file": "Factions/The Party/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: red",
+                "query": "file: co",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Redbram Rebellion/Redbram Rebellion.md",
+                "file": "Factions/The Party/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Redbram Rebellion/Redbram Rebellion.md",
+                "file": "Factions/The Party/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Redbram Rebellion/Redbram Rebellion.md"
+                "file": "Factions/The Party/Context.md"
               }
             }
           }
@@ -213,10 +213,10 @@
   },
   "active": "3a9e0d06c8e49114",
   "lastOpenFiles": [
-    "Places/RedBrand/Redbram.md",
     "Factions/Redbram Rebellion/Redbram Rebellion.md",
-    "Events/Event, Raid on barracks in Redbrand.md",
     "Factions/The Party/Context.md",
+    "Places/RedBrand/Redbram.md",
+    "Events/Event, Raid on barracks in Redbrand.md",
     "Faron.md",
     "Unplaced NPCs/Kristen.md",
     "Factions/The Party/The Party.md",
