@@ -1,11 +1,19 @@
-- Travelled to Laang
-- Got scammed
-- Blew up ~~The Fat Goose~~ 
-	- Briefly lost our horses *and sir Bearsalot*.
-	- 
-- Failed to find Kristen, but one of the citizens told us that it is normals for Orphans to be given last names such as Lang by the Church. This was very amusing to Renfry.
-- 
-
+- Travelled to [[Laang]].
+- Got scammed.
+- Blew up ~~The Fat Goose~~ The Beetle's Nest.
+	- Briefly lost our horses *and [[sir Bearsalot]]*.
+	- Pea Lady helped is find [[Ruben]]'s chateau. 
+- Failed to find [[Kristen]], but one of the citizens told us that it is normals for orphans to be given last names such as [[Laang]] by the Church. This was very amusing to [[Renfry]].
+- Went to [[Ruben]]'s estate, and met [[Tsaar]] (who'se real name I can't remember and I always leave my written notes. :( )
+- [[Tsaar]] took us to ~~a brothel~~ an inn, where we had a pretty sick party and played games.
+	- [[Tsaar]] told us that the papers he burned in that cellar where we met him first, were love letters.
+	- Alexandros is confronted about his choice by [[Tsaar]] and retorts that he made his choice when he sent a letter to his family. 
+	- [[Tsaar]] lets is know that the west gate is apparently free.
+- We check out the west gate and the river.
+- [[Queek]] noticed some sketchy children carrying a sketchy wooden box.
+	- Turned out to be necromancy dwarves building a mine that is definitely legal.
+		- Turns out Kristen has spoken to them aswell.
+		- Dwarves agree to smuggle things or people into the city if we can get a permit for the mine.
 
 - [[Serra]] and [[Dustin]] held meeting and tried to exclude us.
 - We left [[Redbram]] with basic provisions and on horseback
