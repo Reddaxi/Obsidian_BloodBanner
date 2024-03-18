@@ -1,3 +1,9 @@
+- Travelled to Laang
+- Got scammed
+- Blew up ~~The Fat Goose~~ 
+	- Briefly lost our horses *and sir Bearsalot*.
+	- 
+- Failed to find Kristen, but one of the citizens told us that it is normals for Orphans to be given last names such as Lang by the Church. This was very amusing to Renfry.
 - 
 
 
