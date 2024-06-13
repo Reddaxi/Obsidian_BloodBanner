@@ -75,7 +75,7 @@ Redbram NPC's
 The Noble Houses of the Redbram Area
 
 - Aurelius Ædelhoff
-	- An old rich man who got caught up in a conspiracy. Aurelius didn't
+	- An old rich man who got caught up in a conspiracy. Aurelius didn't object to us taking his remaining belongings on behalf of the rebellion - But he also didn't really have a choice. So far, he's taken on a sort of "uncle" role in our merry band of collected individuals, offering advice and generally being really relaxed. This suits me well, because I had feared that he'd be very reluctant 
 - Lady Alicia Achey
 - Anastasia Deguilliere (Alexandros only)
 - Cateline Deguilliere (Alexandros only)
