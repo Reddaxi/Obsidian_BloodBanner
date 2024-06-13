@@ -92,18 +92,22 @@ The Noble Houses of the Redbram Area
 Lange NPC's
 
 - Kirsten de Lange
-	- Obviously immensely talented in her field. Her skills, knowledge and connections have benefitted us greatly so far - And her taste in cigars is great! Honestly, I've never been much of a smoker, but wow! I've not felt that relaxed in years. Her skills as a conversationalist aren't something to scuff at either. Honestly, her company is an impossible ray of sunshine on an otherwise dull, grey, overcast afternoon.
-	- She's also a little cute.
+	- Obviously immensely talented in her field. Her skills, knowledge and connections have benefitted us greatly so far - And her taste in cigars is great! Honestly, I've never been much of a smoker, but wow! I've not felt that relaxed in years. Her skills as a conversationalist aren't something to scuff at either. Honestly, her company is an impossible ray of sunshine on an otherwise dull, grey, overcast afternoon. 
+	- It's been awhile since I met anyone that I could just sit down and *talk* to. Not about rebellion or bloodshed or the looming civil war. Just... Normal, mundane things. Being able to 'shoot the shit', dance, play games, win her the hand of the noble Sir. Bearsalot has provided a much needed pause. I wonder what she'll make of the game Tsar showed me? Hmm. I'll have to bring that up next I see her, if I can remember the rules.
 - Gabe de Basile
 - Reeve Ruben le Sepent Rouge (Not met)
+	- I just hope we can find a peaceful resolution.
 - LOCKED
 - LOCKED
 
 Other NPC's
 
 - Zar Siwa
+	- He shows up suspiciously often. They say three times is a pattern - And I'm still not completely sure what his angle is. I don't think he intends to harm us, but it's hard to believe he keeps showing up simply because he enjoys our company. Even if I must admit he's started growing on me.
 - Elven Caravan Leader
+	- ~~I think I already commented on [[Serra]]?~~ He seemed to care about his people.
 - Elven girl
+	- I'm just happy we could reunite her with her family.
 - LOCKED
 - LOCKED
 - LOCKED

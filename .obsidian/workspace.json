@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gabe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a9e0d06c8e49114",
+  "active": "0a65d4352d22799b",
   "lastOpenFiles": [
     "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
