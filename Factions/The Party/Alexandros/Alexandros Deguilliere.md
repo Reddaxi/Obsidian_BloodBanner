@@ -60,7 +60,7 @@ Opinions of NPC's
 Redbram NPC's
 
 - Serra des Simone
-	- An emotionally driven brat who throws tantrums left and right.
+	- An emotionally driven brat who throws tantrums when things don't go her way. She's passionate, but unreliable.
 - Mourice des Simone (Renfri only)
 - Reeve Roul du Lyon (Renfri only)
 - Scratch
