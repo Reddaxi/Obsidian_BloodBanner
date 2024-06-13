@@ -60,15 +60,18 @@ Opinions of NPC's
 Redbram NPC's
 
 - Serra des Simone
-	- An emotionally driven brat who throws tantrums when things don't go her way. She's passionate, but unreliable.
+	- An emotionally driven brat who throws tantrums when things don't go her way. She's passionate, but unreliable. Her words command a lot of respect amongst the common folk (and now the rebellion), due to whose daughter she is, but she cannot be trusted to wield that power.
+	- She's also a little cute.
 - Mourice des Simone (Renfri only)
 - Reeve Roul du Lyon (Renfri only)
 - Scratch
+	- Never met him. To me, he's the guy that (maybe) delivered the mail I needed to reach my mother to increase her chances of a better life.
 - Junk (Queek only)
 - Karen Dubois (Queek only)
 - Andrew Hoyt (Queen only)
 - William NoName (Queek only)
 - Kurt NoName
+	- My lord and saviour. Kurt Baker is a vital part
 
 The Noble Houses of the Redbram Area
 
