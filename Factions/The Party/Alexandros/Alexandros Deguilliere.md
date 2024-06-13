@@ -71,7 +71,7 @@ Redbram NPC's
 - Andrew Hoyt (Queen only)
 - William NoName (Queek only)
 - Kurt NoName
-	- ~~My lord and saviour.~~ Kurt Baker is a notable contributor of the rebellion and was a vital part of the Siege of Redbrams barracks.
+	- ~~My lord and saviour.~~ Kurt Baker is a notable contributor of the rebellion and was a vital part of the Siege of Redbrams barracks. I'll always admire those who dare stand up when the world needs them the most.
 
 The Noble Houses of the Redbram Area
 
