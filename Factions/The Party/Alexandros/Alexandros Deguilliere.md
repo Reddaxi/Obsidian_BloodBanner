@@ -71,7 +71,7 @@ Redbram NPC's
 - Andrew Hoyt (Queen only)
 - William NoName (Queek only)
 - Kurt NoName
-	- My lord and saviour. Kurt Baker is a vital part
+	- My lord and saviour. Kurt Baker is a vital part of the Siege of Redbrams
 
 The Noble Houses of the Redbram Area
 
