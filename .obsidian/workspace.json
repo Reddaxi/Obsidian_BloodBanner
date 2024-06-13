@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+                "file": "Factions/The Party/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+                "file": "Factions/The Party/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md"
+                "file": "Factions/The Party/The Party.md"
               }
             }
           }
@@ -216,10 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a65d4352d22799b",
+  "active": "90ba1d5e4498c6ea",
   "lastOpenFiles": [
-    "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
+    "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Family/Lance Deguilliere.md",
     "Factions/The Party/Alexandros/Family/Anastasia Deguilliere.md",
     "Factions/The Party/Alexandros/Family/Cateline Deguilliere.md",
