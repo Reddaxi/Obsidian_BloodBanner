@@ -55,11 +55,12 @@ Opinions of NPC's
 - King Uther
 	- I revere the king, but I don't understand how he could let Redbrams level of poverty exist.
 - The Man with the White Hair
-	- He's a relative of the king, I don't know how or how much influence he has, beyond
+	- He's a relative of the king, I don't know him personally or how much influence he has.
 
 Redbram NPC's
 
 - Serra des Simone
+	- An emotionally driven brat who throws tantrums left and right.
 - Mourice des Simone (Renfri only)
 - Reeve Roul du Lyon (Renfri only)
 - Scratch
