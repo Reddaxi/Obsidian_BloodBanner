@@ -87,11 +87,12 @@ The Noble Houses of the Redbram Area
 - Lance Deguilliere (Alexandros only)
 	- My sweet little brother. Seeing you well warmed my heart in ways I cannot describe. I hope that once we're done, you will get to forge your own path, instead of being forced into being a pawn in fathers games.
 - Cedric Deguilliere (Alexandros only)
-	- 
+	- It feels like yesterday that we played around in the fields, plucking apples from the trees and throwing them at Leopold. I know it is not fair. I know I was the one who left. I know you probably feel deserted to feel the wrath and pressure of father alone. I can only hope your back didn't buckle, that your mind did not falter. My heart would break to see you, having become a shadow of father.
 
 Lange NPC's
 
 - Kirsten de Lange
+	- Obviously immensely talented in her field. Her skills, knowledge and connections have benefitted us greatly so far - And her taste in cigars is great! Honestly, I've never been much of a smoker, but wow! I've not felt that relaxed in years. Her skills as a conversationalist aren't something to scuff at either. Honestly, her company is an impossible ray of sunshine on an otherwise dull, grey, overcast afternoon.
 	- She's also a little cute.
 - Gabe de Basile
 - Reeve Ruben le Sepent Rouge (Not met)
