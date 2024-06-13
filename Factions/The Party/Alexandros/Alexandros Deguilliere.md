@@ -81,10 +81,13 @@ The Noble Houses of the Redbram Area
 - Anastasia Deguilliere (Alexandros only)
 	- My dear mother. She was my source of love and care growing up. I love her with all my heart. Not a single night goes by where I wonder if I've done everything I can to attempt to spare her the fate I fear is soon coming for many nobles.
 - Cateline Deguilliere (Alexandros only)
-	- My dear little sister. She was but a 6 year old child when I left to join the [[The Cardinal Regiment]]. To her, I'm a distant memory of a brother that once was. To me, she is a beacon of hope that even in a 
+	- My dear little sister. She was but a 6 year old child when I left to join the [[The Cardinal Regiment]]. To her, I'm a distant memory of a brother that once was. To me, she is a beacon of hope that once this era of murder, rebellion and death has passed, her generation might rise up a shape a better world for themselves.
 - Constantine Deguilliere (Alexandros only)
+	- Father, o' father of mine. You were my hero. Loved and respected by your peers. Your tale told far and wide. All of that love and respect and you had none to share with us. I do not wish for ill to befall you, but I will do everything I can to prevent you from spreading it.
 - Lance Deguilliere (Alexandros only)
+	- My sweet little brother. Seeing you well warmed my heart in ways I cannot describe. I hope that once we're done, you will get to forge your own path, instead of being forced into being a pawn in fathers games.
 - Cedric Deguilliere (Alexandros only)
+	- 
 
 Lange NPC's
 
