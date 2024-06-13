@@ -53,8 +53,9 @@ Here, he joins the ranks of [[The 42nd Platoon]].
 Opinions of NPC's 
 
 - King Uther
-	- I revere the king, but I'm beginning to suspect a lot of authority figures
+	- I revere the king, but I don't understand how he could let Redbrams level of poverty exist.
 - The Man with the White Hair
+	- He's a relative of the king, I don't know how or how much influence he has, beyond
 
 Redbram NPC's
 
