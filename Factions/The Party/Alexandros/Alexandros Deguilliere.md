@@ -47,3 +47,50 @@ As soon as he could lift a sword, he would train under [[Dame Rosaline Briargaar
 
 At the age of 18, Alexandros was sent to join the [[The Cardinal Regiment]].
 Here, he joins the ranks of [[The 42nd Platoon]].
+
+
+-----
+Opinions of NPC's 
+
+- King Uther
+	- I revere the king, but I'm beginning to suspect a lot of authority figures
+- The Man with the White Hair
+
+Redbram NPC's
+
+- Serra des Simone
+- Mourice des Simone (Renfri only)
+- Reeve Roul du Lyon (Renfri only)
+- Scratch
+- Junk (Queek only)
+- Karen Dubois (Queek only)
+- Andrew Hoyt (Queen only)
+- William NoName (Queek only)
+- Kurt NoName
+
+The Noble Houses of the Redbram Area
+
+- Aurelius Ædelhoff
+- Lady Alicia Achey
+- Anastasia Deguilliere (Alexandros only)
+- Cateline Deguilliere (Alexandros only)
+- Constantine Deguilliere (Alexandros only)
+- Lance Deguilliere (Alexandros only)
+- Cedric Deguilliere (Alexandros only)
+
+Lange NPC's
+
+- Kirsten de Lange
+- Gabe de Basile
+- Reeve Ruben le Sepent Rouge (Not met)
+- LOCKED
+- LOCKED
+
+Other NPC's
+
+- Zar Siwa
+- Elven Caravan Leader
+- Elven girl
+- LOCKED
+- LOCKED
+- LOCKED

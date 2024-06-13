@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Party/Context.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Party/Context.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/The Party/Context.md",
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/The Party/Context.md"
+                "file": "Factions/The Party/Alexandros/Alexandros Deguilliere.md"
               }
             }
           }
@@ -208,13 +208,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3a9e0d06c8e49114",
   "lastOpenFiles": [
-    "Factions/Redbram Rebellion/Redbram Rebellion.md",
     "Factions/The Party/Context.md",
+    "Factions/Redbram Rebellion/Redbram Rebellion.md",
     "Places/RedBrand/Redbram.md",
     "Events/Event, Raid on barracks in Redbrand.md",
     "Faron.md",
