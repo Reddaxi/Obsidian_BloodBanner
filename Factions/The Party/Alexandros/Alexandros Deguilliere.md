@@ -75,9 +75,11 @@ Redbram NPC's
 The Noble Houses of the Redbram Area
 
 - Aurelius Ædelhoff
-	- An old rich man who got caught up in a conspiracy. Aurelius didn't object to us taking his remaining belongings on behalf of the rebellion - But he also didn't really have a choice. So far, he's taken on a sort of "uncle" role in our merry band of collected individuals, offering advice and generally being really relaxed. This suits me well, because I had feared that he'd be very reluctant 
+	- An old rich man who got caught up in a conspiracy. Aurelius didn't object to us taking his remaining belongings on behalf of the rebellion - But he also didn't really have a choice. So far, he's taken on a sort of "uncle" role in our merry band of collected individuals, offering advice and generally being really relaxed. This suits me well, because I had feared that he'd be very reluctant to travel with us. Our hope is that we can use him when times for negotiations with the king.
 - Lady Alicia Achey
+	- #bosslady. She took it upon herself to lead a group of armed individuals to route the cowcat from her lands instead of just sending men to do it. I admire nobles who aren't useless. 
 - Anastasia Deguilliere (Alexandros only)
+	- My dear mother. She was my source of love and care growing up. I love her with all my heart. Not a single night goes by where I wonder if I've done everything I can to attempt to spare her the fate I fear is soon coming for many nobles.
 - Cateline Deguilliere (Alexandros only)
 - Constantine Deguilliere (Alexandros only)
 - Lance Deguilliere (Alexandros only)
