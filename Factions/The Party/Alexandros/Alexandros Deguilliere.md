@@ -60,7 +60,7 @@ Opinions of NPC's
 Redbram NPC's
 
 - Serra des Simone
-	- An emotionally driven brat who throws tantrums when things don't go her way. She's passionate, but unreliable. Her words command a lot of respect amongst the common folk (and now the rebellion), due to whose daughter she is, but she cannot be trusted to wield that power.
+	- An emotionally driven brat who throws tantrums when things don't go her way. She's passionate, but unreliable. Her words command a lot of respect amongst the common folk (and now the rebellion), due to whose daughter she is, but she cannot be trusted to wield that power. When that is said
 	- She's also a little cute.
 - Mourice des Simone (Renfri only)
 - Reeve Roul du Lyon (Renfri only)
