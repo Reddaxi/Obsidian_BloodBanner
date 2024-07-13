@@ -6,6 +6,7 @@
       {
         "id": "d9f39b93e1b4ac71",
         "type": "tabs",
+        "dimension": 27.901785714285715,
         "children": [
           {
             "id": "90ba1d5e4498c6ea",
@@ -74,6 +75,7 @@
       {
         "id": "a736cfae5d3b64ae",
         "type": "tabs",
+        "dimension": 72.09821428571429,
         "children": [
           {
             "id": "3a9e0d06c8e49114",
@@ -133,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +217,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a9e0d06c8e49114",
+  "active": "6c5c842dd7376e1a",
   "lastOpenFiles": [
     "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
