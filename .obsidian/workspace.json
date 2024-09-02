@@ -69,8 +69,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5392fe5aba91c14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "a736cfae5d3b64ae",
@@ -217,7 +228,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c5c842dd7376e1a",
+  "active": "f5392fe5aba91c14",
   "lastOpenFiles": [
     "Factions/The Party/The Party.md",
     "Factions/The Party/Alexandros/Alexandros Deguilliere.md",
